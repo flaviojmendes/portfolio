@@ -16,6 +16,10 @@ In this page you will find some things that I have developed. There are many app
 
   * [Barragem do Descoberto (Descoberto Dam)](http://barragemdescoberto.com) - Water dam monitoring using import.io and JQuery.
 
+### Rails
+
+  * [Recipe Book](https://github.com/flaviojmendes/recipes-rails) - Recipe book written in Ruby on Rails, MySQL and Bootstrap 4 - [Demo](http://recipe.flaviojmend.es)
+
 ### Wordpress
 
   * [Davila Advocacia](http://www.davilaadvocacia.com/) - Law Firm website.
