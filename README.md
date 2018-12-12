@@ -20,11 +20,15 @@ In this page you will find some things that I have developed. There are many app
 
   * [Recipe Book](https://github.com/flaviojmendes/recipes-rails) - Recipe book written in Ruby on Rails, MySQL and Bootstrap 4 - [Demo](http://recipe.flaviojmend.es)
 
+### GO
+
+  * [WeatherGO](https://github.com/flaviojmendes/weathergo) - Service written in GoLang that retrieves and serve the weather conditions bases on Latitude and Longitude
+
 ### Wordpress
 
   * [Davila Advocacia](http://www.davilaadvocacia.com/) - Law Firm website.
   * [Jambalaia](http://bandajambalaia.com/) - Brazilian Band website and webstore.
-  * [Vila Velluti](http://vila.flaviojmend.es/) - The Village Velluti Hotel SPA & Convention is located just 50 km from Brasilia , located in one of the most beautiful areas of the Federal District , surrounded by mountains amidst a valley of lush nature.
+  * [Vila Velluti](https://vilavelluti.com.br/) - The Village Velluti Hotel SPA & Convention is located just 50 km from Brasilia , located in one of the most beautiful areas of the Federal District , surrounded by mountains amidst a valley of lush nature.
   * [CCV](http://ccv.flaviojmend.es/) - Veterinary Clinic located in Brasília, Brazil.
 
 ### UI/UX
